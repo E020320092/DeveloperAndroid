@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Denny app</string>
+    <string name="input_control_activity">Input Control</string>
+    <string name="listview_activity">ListView</string>
+    <string name="recyclerview_activity">RecyclerView</string>
+    <string name="quid_activity">Quid</string>
+</resources>
